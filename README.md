@@ -48,7 +48,3 @@ Le script interroge l’API Judilibre, applique les filtres nécessaires (chambr
 ## Licence et responsabilités
 
 Les décisions de justice sont des données publiques. Toutefois, leur réutilisation doit respecter le cadre légal fixé par le ministère de la Justice et les règles de protection des données personnelles.
-
----
-
-**Auteur du projet** : *à compléter*
