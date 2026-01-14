@@ -2,6 +2,8 @@
 
 Ce projet a pour objectif de collecter automatiquement des décisions de justice françaises à partir de l’API **Judilibre** du ministère de la Justice (environnements *sandbox* et *production*).
 
+Voici l'accès à l'API Judilibre : https://www.courdecassation.fr/acces-rapide-judilibre/open-data-et-api
+
 La collecte cible spécifiquement les décisions rendues par la **chambre commerciale** des juridictions, avec un accent sur des thématiques juridiques et économiques précises.
 
 Les décisions sont récupérées en texte intégral et stockées localement au format **JSON** afin de faciliter leur exploitation ultérieure (analyse juridique, traitement automatique du langage, recherche, etc.).
